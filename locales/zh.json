@@ -253,7 +253,7 @@
   "storageContract": "储存合约",
   "chooseNetwork": "选择网络",
   "chooseWallet": "选择钱包",
-  "appIsNotReadyYet": "应用程序还没有准备好",
+  "appIsNotReadyYet": "掉期合约还没有准备好。 管理员必须部署新合同才能开始使用此网络",
   "selectTokenToFindYourLiquidity": "选择一个令牌来查找您的流动性",
   "importPool": "进口池",
   "findManually": "手动查找",
@@ -282,6 +282,9 @@
   "migration": "移民问题",
   "oldDomain": "旧域名",
   "newDomain": "新域名",
+  "waitUntilYourAddressWillBeSaved": "等待，直到您的地址将被保存",
+  "setNewDomainAdmin": "设置新域管理员",
+  "saveThisAddressAsDomainOwner": "将此地址保存为域所有者",
   "afterMigrationYourDataWillBeDeleted": "迁移后，此域的数据将被删除。 您只能从新域访问它",
   "migrateToNewDomain": "迁移到新域",
   "instructionToSaveContractsFromDifferentNetwork": "如果从存储网络以外的网络部署合同，则需要手动保存它们。 切换到存储网络，填充这些输入并保存。 您也可以使用现有合同，但前提是它们与 Definance",
@@ -290,5 +293,10 @@
   "youAlreadyHaveSwapContractsWarning": "您已经部署了掉期合约。 如果你再这样做，旧的合同地址将被复盖。 新合约将没有流动性和费用设置",
   "youAlreadyHaveStorageContractWarning": "您已经部署了存储合同。 如果再这样做，旧的存储地址将被复盖。 您将丢失界面设置",
   "noPointToChangeAdminFeeWithoutFeeRecipient": "在您设置佣金收件人的地址之前，更改此佣金是没有意义的",
-  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "為了成功交換，建議將滑點容差增加到"
+  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "為了成功交換，建議將滑點容差增加到",
+  "HelloLetsConnectThisDomain": "你好！ 让我们把这个域名连接到你的钱包地址",
+  "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "如果要更改地址，請切換到另一個地址。如果您無法切換，只需斷開您的錢包並將其連接到新地址即可。",
+  "setTheOwner": "设置所有者",
+  "setAddressAsTheOwnerOfDomain": "将您的地址设置为该域的所有者",
+  "onlyThisAddressCanAccessAppSettings": "只有这个地址才能访问和更改应用程序设置"
 }

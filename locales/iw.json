@@ -253,7 +253,7 @@
   "storageContract": "חוזה אחסון",
   "chooseNetwork": "בחר רשת",
   "chooseWallet": "בחר ארנק",
-  "appIsNotReadyYet": "האפליקציה אינה מוכנה",
+  "appIsNotReadyYet": "חוזי החלפה עדיין לא מוכנים. מנהל המערכת חייב לפרוס חוזים חדשים כדי להתחיל להשתמש ברשת זו",
   "selectTokenToFindYourLiquidity": "בחר אסימון כדי למצוא את הנזילות שלך",
   "importPool": "ייבוא מאגר",
   "findManually": "מצא באופן ידני",
@@ -282,6 +282,9 @@
   "migration": "הגירה",
   "oldDomain": "דומיין ישן",
   "newDomain": "דומיין חדש",
+  "waitUntilYourAddressWillBeSaved": "המתן עד שהכתובת שלך תישמר",
+  "setNewDomainAdmin": "הגדר מנהל תחום חדש",
+  "saveThisAddressAsDomainOwner": "שמור כתובת זו כבעלים של דומיין",
   "afterMigrationYourDataWillBeDeleted": "לאחר העברת נתונים עבור תחום זה יימחקו. אתה יכול לגשת אליו רק מדומיין חדש",
   "migrateToNewDomain": "העבר לדומיין חדש",
   "instructionToSaveContractsFromDifferentNetwork": "אם אתה פורס חוזים מרשת שאינה רשת האחסון, עליך לשמור אותם באופן ידני. עבור לרשת האחסון, מלא תשומות אלה ושמור אותה. ניתן גם להשתמש בחוזים קיימים, אך רק אם הם קשורים להגדרה",
@@ -290,5 +293,10 @@
   "youAlreadyHaveSwapContractsWarning": "כבר פרסתם חוזי החלפה. אם תעשה זאת שוב, כתובות החוזה הישנות יוחלפו. חוזים חדשים יהיו ללא נזילות והגדרות תשלום",
   "youAlreadyHaveStorageContractWarning": "כבר פרסתם חוזה אחסון. אם תעשה זאת שוב, כתובת האחסון הישנה תוחלף. אתה תאבד את הגדרות הממשק",
   "noPointToChangeAdminFeeWithoutFeeRecipient": "זה לא הגיוני לשנות עמלה זו עד שתגדיר את הכתובת של הנמען של הוועדה",
-  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "להחלפה מוצלחת מומלץ להגביר את סובלנות החלקה ל"
+  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "להחלפה מוצלחת מומלץ להגביר את סובלנות החלקה ל",
+  "HelloLetsConnectThisDomain": "שלום! בואו נחבר דומיין זה לכתובת הארנק שלכם",
+  "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "אם ברצונך לשנות את הכתובת, עבור לכתובת אחרת. אם אינך יכול להחליף, פשוט נתק את הארנק וחבר אותו לכתובת החדשה.",
+  "setTheOwner": "הגדר את הבעלים",
+  "setAddressAsTheOwnerOfDomain": "הגדר את הכתובת שלך כבעלים של דומיין זה",
+  "onlyThisAddressCanAccessAppSettings": "רק כתובת זו יכולה לגשת ולשנות את הגדרות האפליקציה"
 }

@@ -264,7 +264,7 @@
   "storageContract": "Depolama sözleşmesi",
   "chooseNetwork": "Ağ seçin",
   "chooseWallet": "Cüzdanı seçin",
-  "appIsNotReadyYet": "Uygulama henüz hazır değil",
+  "appIsNotReadyYet": "Takas sözleşmeleri henüz hazır değil. Yönetici bu ağı kullanmaya başlamak için yeni sözleşmeler dağıtmalıdır",
   "importPool": "havuzu içe aktar",
   "selectTokenToFindYourLiquidity": "Likiditenizi bulmak için bir jeton seçin",
   "findManually": "Kendiniz bulun",
@@ -293,6 +293,9 @@
   "migration": "Göç",
   "oldDomain": "Eski alan adı",
   "newDomain": "Yeni alan adı",
+  "waitUntilYourAddressWillBeSaved": "Adresiniz kaydedilene kadar bekleyin",
+  "setNewDomainAdmin": "Yeni bir etki alanı yöneticisi ayarlama",
+  "saveThisAddressAsDomainOwner": "Bu adresi etki alanı sahibi olarak kaydetme",
   "afterMigrationYourDataWillBeDeleted": "Geçişten sonra bu etki alanı verileri silinir. Yalnızca yeni bir etki alanından erişebilirsiniz",
   "migrateToNewDomain": "Yeni bir etki alanına geçirme",
   "instructionToSaveContractsFromDifferentNetwork": "Sözleşmeleri Depolama ağı dışındaki bir ağdan dağıtırsanız, bunları el ile kaydetmeniz gerekir. Depolama ağına geçin, bu girişleri doldurun ve kaydedin. Mevcut sözleşmeleri de kullanabilirsiniz, ancak yalnızca bunlarla ilgiliyse Definance",
@@ -301,5 +304,10 @@
   "youAlreadyHaveSwapContractsWarning": "Zaten takas sözleşmeleri dağıttınız. Tekrar yaparsanız eski sözleşme adreslerinin üzerine yazılacaktır. Yeni sözleşmeler likidite ve ücret ayarları olmadan olacak",
   "youAlreadyHaveStorageContractWarning": "Depolama sözleşmesini zaten dağıttınız. Tekrar yaparsanız eski depolama adresinin üzerine yazılacaktır. Arayüz ayarlarını kaybedeceksiniz",
   "noPointToChangeAdminFeeWithoutFeeRecipient": "Ücret alıcı adresini belirleyene kadar bu komisyonu değiştirmenin bir anlamı yok.",
-  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "Başarılı bir değişim için Kayma Toleransının artırılması önerilir."
+  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "Başarılı bir değişim için Kayma Toleransının artırılması önerilir.",
+  "HelloLetsConnectThisDomain": "Merhaba! Bu alanı cüzdan adresinize bağlayalım",
+  "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "Adresi değiştirmek istiyorsanız, başka bir adrese geçin. Geçiş yapamıyorsanız, cüzdanınızın bağlantısını kesin ve yeni adrese bağlayın.",
+  "setTheOwner": "Sahibini ayarla",
+  "setAddressAsThewnerOfDomain": "Adresinizi bu etki alanının sahibi olarak ayarlayın",
+  "onlyThisAddressCanAccessAppSettings": "Uygulama ayarlarına yalnızca bu adres erişebilir ve bunları değiştirebilir"
 }

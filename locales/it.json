@@ -264,7 +264,7 @@
   "storageContract": "Contratto di ammasso",
   "chooseNetwork": "Scegli rete",
   "chooseWallet": "Scegli portafoglio",
-  "appIsNotReadyYet": "App non è pronto",
+  "appIsNotReadyYet": "I contratti di swap non sono ancora pronti. L'amministratore deve distribuire nuovi contratti per iniziare a utilizzare questa rete",
   "selectTokenToFindYourLiquidity": "Seleziona un token per trovare la tua liquidità",
   "importPool": "Importa pool",
   "findManually": "Trova manualmente",
@@ -293,6 +293,9 @@
   "migration": "Migrazione",
   "oldDomain": "Vecchio dominio",
   "newDomain": "Nuovo dominio",
+  "waitUntilYourAddressWillBeSaved": "Attendi fino a quando il tuo indirizzo verrà salvato",
+  "setNewDomainAdmin": "Imposta un nuovo amministratore di dominio",
+  "saveThisAddressAsDomainOwner": "Salva questo indirizzo come proprietario del dominio",
   "afterMigrationYourDataWillBeDeleted": "Dopo la migrazione i dati per questo dominio verranno eliminati. È possibile accedervi solo da un nuovo dominio",
   "migrateToNewDomain": "Migrazione a un nuovo dominio",
   "instructionToSaveContractsFromDifferentNetwork": "Se si distribuiscono contratti da una rete diversa dalla rete di archiviazione, è necessario salvarli manualmente. Passare alla rete di archiviazione, riempire questi ingressi e salvarlo. È inoltre possibile utilizzare i contratti esistenti, ma solo se sono correlati a Definance",
@@ -301,5 +304,10 @@
   "youAlreadyHaveSwapContractsWarning": "Hai già distribuito contratti di swap. Se lo fai di nuovo, i vecchi indirizzi del contratto verranno sovrascritti. I nuovi contratti saranno senza impostazioni di liquidità e commissioni",
   "youAlreadyHaveStorageContractWarning": "Hai già distribuito il contratto di archiviazione. Se lo fai di nuovo, il vecchio indirizzo di archiviazione verrà sovrascritto. Si perderanno le impostazioni dell'interfaccia",
   "noPointToChangeAdminFeeWithoutFeeRecipient": "Non ha senso modificare questa commissione finché non si imposta l'indirizzo del destinatario della commissione",
-  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "Per uno scambio di successo si consiglia di aumentare la tolleranza di slittamento a"
+  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "Per uno scambio di successo si consiglia di aumentare la tolleranza di slittamento a",
+  "HelloLetsConnectThisDomain": "Buongiorno! Colleghiamo questo dominio al tuo indirizzo wallet",
+  "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "Se si desidera modificare l'indirizzo, passare a un altro indirizzo. Se non puoi cambiare, scollega il tuo portafoglio e collegalo al nuovo indirizzo.",
+  "setTheOwner": "Imposta il proprietario",
+  "setAddressAsTheOwnerOfDomain": "Imposta il tuo indirizzo come proprietario di questo dominio",
+  "onlyThisAddressCanAccessAppSettings": "Solo questo indirizzo può accedere e modificare le impostazioni dell'app"
 }

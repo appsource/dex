@@ -253,7 +253,7 @@
   "storageContract": "Contrato de almacenamiento",
   "chooseNetwork": "Elija la red",
   "chooseWallet": "Elegir cartera",
-  "appIsNotReadyYet": "La aplicación no está lista",
+  "appIsNotReadyYet": "Los contratos de swap aún no están listos. El administrador debe implementar nuevos contratos para comenzar a usar esta red",
   "selectTokenToFindYourLiquidity": "Seleccione un token para encontrar su liquidez",
   "importPool": "Importar grupo",
   "findManually": "Buscar manualmente",
@@ -282,6 +282,9 @@
   "migration": "Migración",
   "oldDomain": "Dominio antiguo",
   "newDomain": "Nuevo dominio",
+  "waitUntilYourAddressWillBeSaved": "Espere hasta que se guarde su dirección",
+  "setNewDomainAdmin": "Establecer un nuevo administrador de dominio",
+  "saveThisAddressAsDomainOwner": "Guardar esta dirección como propietario de un dominio",
   "afterMigrationYourDataWillBeDeleted": "Después de la migración, se eliminarán los datos de este dominio. Solo se puede acceder desde un nuevo dominio",
   "migrateToNewDomain": "Migrar a un nuevo dominio",
   "instructionToSaveContractsFromDifferentNetwork": "Si implementa contratos desde una red que no sea la red de almacenamiento, debe guardarlos manualmente. Cambie a la red de almacenamiento, complete estas entradas y guárdelas. También puede usar contratos existentes, pero solo si están relacionados con Definance",
@@ -290,5 +293,10 @@
   "youAlreadyHaveSwapContractsWarning": "Ya ha implementado contratos de intercambio. Si lo hace de nuevo, las direcciones de contrato antiguas se sobrescribirán. Los nuevos contratos no tendrán liquidez ni ajustes de comisiones",
   "youAlreadyHaveStorageContractWarning": "Ya ha implementado un contrato de almacenamiento. Si lo hace de nuevo, la dirección de almacenamiento antigua se sobrescribirá. Perderá la configuración de la interfaz",
   "noPointToChangeAdminFeeWithoutFeeRecipient": "No tiene sentido cambiar esta comisión hasta que establezca la dirección del destinatario de la tarifa",
-  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "Para un intercambio exitoso, se recomienda aumentar la tolerancia al deslizamiento a"
+  "forSuccessfulExchangeRecommendedToIncreaseSlippageTo": "Para un intercambio exitoso, se recomienda aumentar la tolerancia al deslizamiento a",
+  "HelloLetsConnectThisDomain": "¡Hola! Conectemos este dominio a la dirección de su billetera",
+  "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "Si desea cambiar la dirección, cambie a otra dirección. Si no puede cambiar, simplemente desconecte su billetera y conéctela a la nueva dirección.",
+  "setTheOwner": "Establecer el propietario",
+  "setAddressAsTheOwnerOfDomain": "Establece tu dirección como el propietario de este dominio",
+  "onlyThisAddressCanAccessAppSettings": "Solo esta dirección puede acceder y cambiar la configuración de la aplicación"
 }
