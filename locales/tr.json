@@ -181,6 +181,7 @@
   "resetDomainData": "Reset domain data",
   "projectName": "Proje Adı",
   "logoUrl": "Logo url",
+  "faviconUrl": "Favicon url",
   "socialLinks": "Social links",
   "resetDomainDescription": "Bu alan adına ait tüm veriler silinecek(admin, contract addresses and settings)",
   "youAreDeployingSwapContracts": "Takas sözleşmeleri dağıtacaksınız",
@@ -286,5 +287,6 @@
   "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "Adresi değiştirmek istiyorsanız, başka bir adrese geçin. Geçiş yapamıyorsanız, cüzdanınızın bağlantısını kesin ve yeni adrese bağlayın.",
   "setTheOwner": "Sahibini ayarla",
   "setAddressAsThewnerOfDomain": "Adresinizi bu etki alanının sahibi olarak ayarlayın",
-  "onlyThisAddressCanAccessAppSettings": "Uygulama ayarlarına yalnızca bu adres erişebilir ve bunları değiştirebilir"
+  "onlyThisAddressCanAccessAppSettings": "Uygulama ayarlarına yalnızca bu adres erişebilir ve bunları değiştirebilir",
+  "add_token_to_metamask": "Add token to wallet"
 }

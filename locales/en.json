@@ -181,6 +181,7 @@
   "resetDomainData": "Reset domain data",
   "projectName": "Project name",
   "logoUrl": "Logo URL",
+  "faviconUrl": "Favicon URL",
   "socialLinks": "Social links",
   "resetDomainDescription": "All data for this domain will be erased (admin, contract addresses and settings)",
   "youAreDeployingSwapContracts": "You are going to deploy swap contracts",
@@ -286,5 +287,6 @@
   "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "If you want to change the address, switch to another address. If you can't switch, just disconnect your wallet and connect it to the new address.",
   "setTheOwner": "Set the owner",
   "setAddressAsTheOwnerOfDomain": "Set your address as the owner of this domain",
-  "onlyThisAddressCanAccessAppSettings": "Only this address can access and change app settings"
+  "onlyThisAddressCanAccessAppSettings": "Only this address can access and change app settings",
+  "add_token_to_metamask": "Add token to wallet"
 }

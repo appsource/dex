@@ -182,6 +182,7 @@
   "resetDomainData": "Domain-Daten zurücksetzen",
   "projectName": "Projektnamen",
   "logoUrl": "Logo-URL",
+  "faviconUrl": "Favicon-URL",
   "socialLinks": "Soziale Links",
   "resetDomainDescription": "Alle Daten für diese Domain werden gelöscht (Admin, Kontaktadressen und Einstellungen)",
   "youAreDeployingSwapContracts": "Sie stellen Swap-Verträge bereit",
@@ -287,5 +288,6 @@
   "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "Wenn Sie die Adresse ändern möchten, wechseln Sie zu einer anderen Adresse. Wenn Sie nicht wechseln können, trennen Sie einfach Ihre Brieftasche und verbinden Sie sie mit der neuen Adresse.",
   "setTheOwner": "Legen Sie den Eigentümer fest",
   "setAddressAsTheOwnerOfDomain": "Legen Sie Ihre Adresse als Eigentümer dieser Domain fest",
-  "onlyThisAddressCanAccessAppSettings": "Nur diese Adresse kann auf App-Einstellungen zugreifen und diese ändern"
+  "onlyThisAddressCanAccessAppSettings": "Nur diese Adresse kann auf App-Einstellungen zugreifen und diese ändern",
+  "add_token_to_metamask": "Add token to wallet"
 }

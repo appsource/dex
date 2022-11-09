@@ -173,6 +173,7 @@
   "resetDomainData": "Сброс данных домена",
   "projectName": "Название проекта",
   "logoUrl": "URL-адрес логотипа",
+  "faviconUrl": "URL-адрес favicon",
   "socialLinks": "Социальные ссылки",
   "resetDomainDescription": "Все данные для этого домена будут удалены (администратор, aдреса контрактов и настройки)",
   "youAreDeployingSwapContracts": "Вы развертываете контракты для обмен",
@@ -278,5 +279,6 @@
   "IfYouWantToChangeTheAddressSwitchToAnotherAddress": "Если вы хотите изменить адрес, переключитесь на другой адрес. Если вы не можете переключиться, просто отключите свой кошелек и подключите его к новому адресу.",
   "setTheOwner": "Установить владельца",
   "setAddressAsTheOwnerOfDomain": "Указать ваш адрес в качестве владельца этого домена",
-  "onlyThisAddressCanAccessAppSettings": "Только этот адрес может получить доступ к настройкам приложения и изменить их"
+  "onlyThisAddressCanAccessAppSettings": "Только этот адрес может получить доступ к настройкам приложения и изменить их",
+  "add_token_to_metamask": "Добавить токен в кошелек"
 }
