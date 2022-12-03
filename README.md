@@ -10,7 +10,7 @@ DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, 
 1. fork this repo
 2. go to settings and enable Github pages
 ![alt text](howto.png "Title")
-
+3. add your "custom domain" 
 
 # change list of awailable networks
 
