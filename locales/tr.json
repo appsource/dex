@@ -288,5 +288,5 @@
   "setTheOwner": "Sahibini ayarla",
   "setAddressAsThewnerOfDomain": "Adresinizi bu etki alanının sahibi olarak ayarlayın",
   "onlyThisAddressCanAccessAppSettings": "Uygulama ayarlarına yalnızca bu adres erişebilir ve bunları değiştirebilir",
-  "add_token_to_metamask": "Add token to wallet"
+  "addTokenToMetamask": "Metamask'a {{tokenSymbol}} ekleyin"
 }

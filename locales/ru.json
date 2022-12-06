@@ -280,5 +280,5 @@
   "setTheOwner": "Установить владельца",
   "setAddressAsTheOwnerOfDomain": "Указать ваш адрес в качестве владельца этого домена",
   "onlyThisAddressCanAccessAppSettings": "Только этот адрес может получить доступ к настройкам приложения и изменить их",
-  "add_token_to_metamask": "Добавить токен в кошелек"
+  "addTokenToMetamask": "Добавить {{tokenSymbol}} в Metamask"
 }

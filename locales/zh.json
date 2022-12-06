@@ -281,5 +281,5 @@
   "setTheOwner": "设置所有者",
   "setAddressAsTheOwnerOfDomain": "将您的地址设置为该域的所有者",
   "onlyThisAddressCanAccessAppSettings": "只有这个地址才能访问和更改应用程序设置",
-  "add_token_to_metamask": "Add token to wallet"
+  "addTokenToMetamask": "添加 {{tokenSymbol}} 到 Metamask"
 }

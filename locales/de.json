@@ -289,5 +289,5 @@
   "setTheOwner": "Legen Sie den Eigentümer fest",
   "setAddressAsTheOwnerOfDomain": "Legen Sie Ihre Adresse als Eigentümer dieser Domain fest",
   "onlyThisAddressCanAccessAppSettings": "Nur diese Adresse kann auf App-Einstellungen zugreifen und diese ändern",
-  "add_token_to_metamask": "Add token to wallet"
+  "addTokenToMetamask": "Fügen Sie {{tokenSymbol}} zu Metamask hinzu"
 }
