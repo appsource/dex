@@ -1,11 +1,11 @@
 # dex
-DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FROK AND ADD DOMAIN
+DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FORK AND ADD DOMAIN
 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
 
 # price depends on your revenue
-1. FREE - For small and non-profit projects it is <b>FREE</b>. 
-2. For medium volume DEXes (where owner earns more than 1000$/monthly) will be withhold a protocol fee  ~"1/5" of owners revenues (exchange fees). 
+1. FREE - For small and non-profit projects, it is <b>FREE</b>. 
+2. For medium volume DEXes (where owner earns more than 1000$/monthly) will be withheld a protocol fee  ~"1/5" of owner's revenues (exchange fees). 
 3. For large volume DEXes please contact
 
 # howto
@@ -14,9 +14,9 @@ Video: https://www.youtube.com/watch?v=x6LJTJCVWiI
 ![alt text](howto.png "Title")
 3. add your "custom domain" 
 
-# change list of awailable networks
+# change list of available networks
 
-1. click edit in "index.html" file  and add this code at the beginning 
+1. click edit in "index.html" file and add this code at the beginning 
 ```
 <script type="text/javascript">
   window.SO_Definance = {}
