@@ -12,7 +12,7 @@ Video: https://www.youtube.com/watch?v=x6LJTJCVWiI
 1. fork this repo
 2. go to settings and enable Github pages
 ![alt text](howto.png "Title")
-3. add your "custom domain" 
+3. add your "custom domain" (don't forget to change DNS of your domain. <a href="https://www.youtube.com/watch?v=EX4w9hsduNA" target="_blank">video tutorial</a>)
 
 # change list of available networks
 
