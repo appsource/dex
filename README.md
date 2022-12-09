@@ -1,9 +1,9 @@
-# dex
+# DEX creation tool
 DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FORK AND ADD DOMAIN
 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
 
-# price depends on your revenue
+# Price depends on your revenue
 1. FREE - For small and non-profit projects, it is <b>FREE</b>. 
 2. For medium volume DEXes (where owner earns more than 1000$/monthly) will be withheld a protocol fee  ~"1/5" of owner's revenues (exchange fees). 
 3. For large volume DEXes please contact
