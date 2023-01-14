@@ -10,7 +10,7 @@ Video: https://www.youtube.com/watch?v=x6LJTJCVWiI
 
 # howto
 1. fork this repo
-2. go to settings and enable Github pages
+2. go to settings (check the addreass github/YOURNAME/dex, not https://github.com/appsource/dex/!) and enable Github pages
 ![alt text](howto.png "Title")
 3. add your "custom domain" (don't forget to change DNS of your domain. <a href="https://www.youtube.com/watch?v=EX4w9hsduNA" target="_blank">video tutorial</a>)
 
