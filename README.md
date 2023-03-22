@@ -3,10 +3,8 @@ DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, 
 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
 
-# Price depends on your revenue
-1. FREE - For small and non-profit projects, it is <b>FREE</b>. 
-2. For medium volume DEXes (where owner earns more than 1000$/monthly) will be withheld a protocol fee  ~"1/5" of owner's revenues (exchange fees). 
-3. For large volume DEXes please contact
+# Price . Start for free
+Once you start earning from these tools, we will charge only 1/5 of your profit (not volume). Alternatively, you can avoid this fee by purchasing the premium version (1500$) of the tool. Our RevShare model offers several benefits, including the ability to start using the tools for free, only paying for them when they generate profit. This means you can test out the tools without any upfront costs.
 
 # howto
 1. fork this repo
