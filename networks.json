@@ -1,0 +1,333 @@
+{
+  "1": {
+    "name": "Ethereum",
+    "rpc": "https://rpc.ankr.com/eth",
+    "chainId": 1,
+    "explorer": "https://etherscan.io",
+    "color": "#627EEA",
+    "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
+    "ENSRegistry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Etherer",
+      "symbol": "WETH"
+    }
+  },
+  "25": {
+    "name": "Cronos",
+    "rpc": "https://evm.cronos.org",
+    "chainId": 25,
+    "explorer": "https://cronoscan.com/",
+    "color": "#072D4C",
+    "multicall": "0x79D5C019F2515Cbc0596170Da44FCd26412c4f83",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "CRO",
+      "symbol": "CRO"
+    },
+    "wrappedToken": {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO"
+    }
+  },
+  "534": {
+    "name": "Candle",
+    "rpc": "https://rpc.cndlchain.com/",
+    "chainId": 534,
+    "explorer": "https://candleexplorer.com/",
+    "color": "#000080",
+    "multicall": "0x4A21871491adC2C429F9903918C306c97dd295A3",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "Candle",
+      "symbol": "CNDL"
+    },
+    "wrappedToken": {
+      "address": "0x85FA00f55492B0437b3925381fAaf0E024747627",
+      "name": "Wrapped Candle",
+      "symbol": "WCNDL"
+    }
+  },
+  "56": {
+    "name": "BSC",
+    "rpc": "https://bscrpc.com/",
+    "chainId": 56,
+    "explorer": "https://bscscan.com",
+    "color": "#CC9B00",
+    "storage": "0xa7472f384339D37EfE505a1A71619212495A973A",
+    "multicall": "0x41263cBA59EB80dC200F3E2544eda4ed6A90E76C",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "wrappedToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    }
+  },
+  "137": {
+    "name": "Polygon",
+    "rpc": "https://polygon-rpc.com/",
+    "chainId": 137,
+    "explorer": "https://polygonscan.com/",
+    "color": "#8247E5",
+    "multicall": "0x11ce4B23bD875D7F5C6a31084f55fDe1e9A87507",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "Matic",
+      "symbol": "MATIC"
+    },
+    "wrappedToken": {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC"
+    }
+  },
+  "180": {
+    "name": "AME Chain",
+    "rpc": "https://node1.amechain.io/",
+    "chainId": 180,
+    "explorer": "https://amescan.io/",
+    "color": "#ff0500",
+    "multicall": "0x1763d5e86452Ed9C13b874fDe60A0669D11C5d40",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "AME",
+      "symbol": "AME"
+    },
+    "wrappedToken": {
+      "address": "0xCc9bD40124EfedF6F198B8b5b50697dC635FaaC4",
+      "name": "Wrapped AME",
+      "symbol": "WAME"
+    }
+  },
+  "43114": {
+    "name": "Avalanche",
+    "rpc": "https://api.avax.network/ext/bc/C/rpc",
+    "chainId": 43114,
+    "explorer": "https://snowtrace.io",
+    "color": "#D64F4A",
+    "multicall": "0x04ad4Ce6015141F6f582A7451Cb7CD6866609298",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "wrappedToken": {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    }
+  },
+  "250": {
+    "name": "Fantom Opera",
+    "rpc": "https://rpc.ftm.tools/",
+    "chainId": 250,
+    "explorer": "https://ftmscan.com",
+    "color": "#0C30FF",
+    "multicall": "0x9664EC984D1c0d44dD22C161da1D06f7f72Ae092",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "FTM",
+      "symbol": "FTM"
+    },
+    "wrappedToken": {
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "name": "Wrapped FTM",
+      "symbol": "WFTM"
+    }
+  },
+  "122": {
+    "name": "Fuse",
+    "rpc": "https://rpc.fuse.io/",
+    "chainId": 122,
+    "explorer": "https://explorer.fuse.io/",
+    "color": "#C6F9AC",
+    "multicall": "0x0755ba6D3e0B799AC7Cd6707AddE7B72208DE08e",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "FUSE",
+      "symbol": "FUSE"
+    },
+    "wrappedToken": {
+      "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+      "name": "Wrapped FUSE",
+      "symbol": "WFUSE"
+    }
+  },
+  "1285": {
+    "name": "Moonriver",
+    "rpc": "https://rpc.moonriver.moonbeam.network",
+    "chainId": 1285,
+    "explorer": "https://moonriver.moonscan.io/",
+    "color": "#F2B705",
+    "multicall": "0x9664EC984D1c0d44dD22C161da1D06f7f72Ae092",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "MOVR",
+      "symbol": "MOVR"
+    },
+    "wrappedToken": {
+      "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+      "name": "Wrapped MOVR",
+      "symbol": "WMOVR"
+    }
+  },
+  "1666600000": {
+    "name": "Harmony",
+    "rpc": "https://api.harmony.one",
+    "chainId": 1666600000,
+    "explorer": "https://explorer.harmony.one/",
+    "color": "#66DEDD",
+    "multicall": "0x79D5C019F2515Cbc0596170Da44FCd26412c4f83",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ONE",
+      "symbol": "ONE"
+    },
+    "wrappedToken": {
+      "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+      "name": "Wrapped ONE",
+      "symbol": "WONE"
+    }
+  },
+  "1313161554": {
+    "name": "Aurora",
+    "rpc": "https://mainnet.aurora.dev",
+    "chainId": 1313161554,
+    "explorer": "https://aurorascan.dev/",
+    "color": "#81D957",
+    "multicall": "0x79d5c019f2515cbc0596170da44fcd26412c4f83",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
+    }
+  },
+  "5": {
+    "name": "Görli",
+    "rpc": "https://goerli.infura.io/v3/fc55ddb25b694fef8e2363f6b6c9341f",
+    "chainId": 5,
+    "explorer": "https://goerli.etherscan.io",
+    "color": "#f6c343",
+    "storage": "0x171a664f12672a61E4e948BC7Fd38eB34b64a15b",
+    "multicall": "0xFD4e092227e876dD8F2d036FA8fEB23F8A7F94ca",
+    "ENSRegistry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    }
+  },
+  "19845": {
+    "name": "BTCIX Network",
+    "rpc": "https://seed.btcix.org/rpc",
+    "chainId": 19845,
+    "explorer": "https://btcixscan.com",
+    "color": "#91ac14",
+    "multicall": "0xcd8F23091F5379cf355F365dBa8C48A2C721C1e5",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "BITCOLOJIX",
+      "symbol": "BTCIX"
+    },
+    "wrappedToken": {
+      "address": "0x1763d5e86452Ed9C13b874fDe60A0669D11C5d40",
+      "name": "Wrapped BITCOLOJIX",
+      "symbol": "WBTCIX"
+    }
+  },
+  "2021": {
+    "name": "Edgeware",
+    "rpc": "https://edgeware-rpc.dwellir.com",
+    "chainId": 2021,
+    "explorer": "https://edgscan.live",
+    "color": "#ff3b80",
+    "multicall": "0xF579269Aec2168E44FE4EBA632D942e9701331db",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "EDG",
+      "symbol": "EDG"
+    },
+    "wrappedToken": {
+      "address": "0x457dE4e275A6b3C0D3750519221dD1dF19d54f01",
+      "name": "Wrapped EDG",
+      "symbol": "WEDG"
+    }
+  },
+  "97": {
+    "name": "BSC testnet",
+    "rpc": "https://data-seed-prebsc-1-s2.binance.org:8545",
+    "chainId": 97,
+    "explorer": "https://testnet.bscscan.com",
+    "color": "#CC9B00",
+    "storage": "0x91a0DCC7a78Da02244212D36eAFd9E0dBB3174B4",
+    "multicall": "0xAEd1D4cD398a21d8AdAf0203C1acb864D3553C50",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "wrappedToken": {
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    }
+  },
+  "80001": {
+    "name": "Polygon testnet",
+    "rpc": "https://endpoints.omniatech.io/v1/matic/mumbai/public",
+    "chainId": 80001,
+    "explorer": "https://mumbai.polygonscan.com/",
+    "color": "#8247E5",
+    "storage": "0x3E75D01fea47910E47Bb5E37599E56D3Ac8356f7",
+    "multicall": "0xEF65BF9e225A4B606aa5C46f944De35f566e58e4",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "Matic",
+      "symbol": "MATIC"
+    },
+    "wrappedToken": {
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC"
+    }
+  },
+  "43113": {
+    "name": "Avalanche testnet",
+    "rpc": "https://endpoints.omniatech.io/v1/avax/fuji/public",
+    "chainId": 43113,
+    "explorer": "https://testnet.snowtrace.io/",
+    "color": "#D64F4A",
+    "storage": "0xb66e94f5B2a475D98EEc9012A95114AF6fB1fa02",
+    "multicall": "0xEF65BF9e225A4B606aa5C46f944De35f566e58e4",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "AVAX",
+      "symbol": "AVAX"
+    },
+    "wrappedToken": {
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    }
+  }
+}
