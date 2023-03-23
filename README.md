@@ -1,4 +1,4 @@
-# DEX creation tool
+# Erc20, BEP20 exchchange creation tool
 DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FORK AND ADD DOMAIN
 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
