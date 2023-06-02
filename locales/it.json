@@ -304,5 +304,9 @@
   "reset": "Reset",
   "onoutFeeIsDisabled": "Onout il feed è disabilitato",
   "doNotForgetDisableOnoutFee": "Non dimenticare di disabilitare onout tassa dopo l'acquisto della versione premium",
-  "addTokenToMetamask": "Aggiungi {{tokenSymbol}} a Metamask"
+  "addTokenToMetamask": "Aggiungi {{tokenSymbol}} a Metamask",
+  "useKeyForAdditionActivation": "Avete già una chiave aggiuntiva? Utilizzatela per l'attivazione",
+  "activate": "Attivare",
+  "youHaveToUseNetworkForPayment": "Per pagare è necessario utilizzare {{requiredNetwork}}.",
+  "ifYouAlreadyHaveFactorySpecifyIt": "Se hai già un contratto di fabbrica usalo qui sotto per evitare di crearne uno nuovo"
 }

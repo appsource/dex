@@ -329,5 +329,78 @@
       "name": "Wrapped AVAX",
       "symbol": "WAVAX"
     }
+  },
+  "1442": {
+    "name": "Polygon zkEVM-testnet",
+    "rpc": "https://rpc.public.zkevm-test.net",
+    "chainId": 1442,
+    "explorer": "https://testnet-zkevm.polygonscan.com",
+    "color": "#D64F4A",
+    "storage": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
+    "multicall": "0x48d7ac38530697aDB91061B6D141C8c763edE565",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
+    }
+  },
+  "1101": {
+    "name": "Polygon zkEVM",
+    "rpc": "https://zkevm-rpc.com",
+    "chainId": 1101,
+    "explorer": "https://zkevm.polygonscan.com",
+    "color": "#D64F4A",
+    "multicall": "0x10DcBEe8afA39a847707e16Aea5eb34c6b01aBA9",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
+    }
+  },
+  "42161": {
+    "name": "Arbitrum",
+    "rpc": "https://arb1.arbitrum.io/rpc",
+    "chainId": 42161,
+    "explorer": "https://arbiscan.io/",
+    "color": "#e7eaf3",
+    "multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
+    "baseCurrency": {
+    "decimals": 18,
+      "name": "ETH", 
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    }
+  },
+  "421613": {
+    "name": "Arbitrum Goerli Testnet - BLAST",
+    "rpc": "https://arbitrum-goerli.public.blastapi.io",
+    "chainId": 421613,
+    "explorer": "https://goerli.arbiscan.io/",
+    "color": "#e7eaf3",
+    "multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
+    "baseCurrency": {
+    "decimals": 18,
+      "name": "ETH", 
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0xe39Ab88f8A4777030A534146A9Ca3B52bd5D43A3",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    }
   }
 }

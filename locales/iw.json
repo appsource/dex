@@ -297,5 +297,9 @@
   "reset": "איפוס",
   "onoutFeeIsDisabled": "Onout הזנה מושבתת",
   "doNotForgetDisableOnoutFee": "אל תשכח להשבית onout דמי לאחר רכישת גרסת פרימיום",
-  "addTokenToMetamask": "הוסף את {{tokenSymbol}} ל- Metamask"
+  "addTokenToMetamask": "הוסף את {{tokenSymbol}} ל- Metamask",
+  "useKeyForAdditionActivation": "האם כבר יש לך מפתח נוסף? השתמש בו להפעלה",
+  "activate": "הפעל",
+  "youHaveToUseNetworkForPayment": "אתה צריך להשתמש {{requiredNetwork}} לשלם",
+  "ifYouAlreadyHaveFactorySpecifyIt": "אם כבר יש לך חוזה יצרן, השתמש בו למטה כדי להימנע מיצירת חוזה חדש"
 }

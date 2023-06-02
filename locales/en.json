@@ -304,5 +304,9 @@
   "reset": "Reset",
   "onoutFeeIsDisabled": "Onout fee is disabled",
   "doNotForgetDisableOnoutFee": "Do not forget to disable onout fee after purchasing premium version",
-  "addTokenToMetamask": "Add {{tokenSymbol}} to Metamask"
+  "addTokenToMetamask": "Add {{tokenSymbol}} to Metamask",
+  "useKeyForAdditionActivation": "Do you already have an additional key? Use it for activation",
+  "activate": "Activate",
+  "youHaveToUseNetworkForPayment": "You have to use {{requiredNetwork}} to pay",
+  "ifYouAlreadyHaveFactorySpecifyIt": "If you already have a factory contract use it below to avoid creating a new one"
 }

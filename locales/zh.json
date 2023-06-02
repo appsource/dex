@@ -297,5 +297,9 @@
   "reset": "重置",
   "onoutFeeIsDisabled": "Onout 饲料被禁用",
   "doNotForgetDisableOnoutFee": "不要忘记禁用onout 购买高级版本后的费用",
-  "addTokenToMetamask": "添加 {{tokenSymbol}} 到 Metamask"
+  "addTokenToMetamask": "添加 {{tokenSymbol}} 到 Metamask",
+  "useKeyForAdditionActivation": "你已经有一个额外的密钥吗？用它来激活",
+  "activate": "激活",
+  "youHaveToUseNetworkForPayment": "你必须使用{{requiredNetwork}}来支付",
+  "ifYouAlreadyHaveFactorySpecifyIt": "如果您已经有工厂合同，请在下面使用它以避免创建新合同"
 }

@@ -33,7 +33,7 @@
   "itWillCost": "Es kostet höchstens",
   "insufficientBalance": "Guthaben ungenügend",
   "inputNotValid": "Eingabewert ungültig",
-  "differentToken": "Es müssen unterschiedliche Token sein.",
+  "differentToken": "Es müssen unterschiedliche Token sein",
   "noRecipient": "Empfängeradresse angeben.",
   "invalidRecipient": "Bitte gib eine gültige Empfängeradresse an.",
   "recipientAddress": "Adresse des Empfängers",
@@ -305,5 +305,9 @@
   "reset": "Zurücksetzen",
   "onoutFeeIsDisabled": "Onout feed ist deaktiviert",
   "doNotForgetDisableOnoutFee": "Vergiss nicht zu deaktivieren onout gebühr nach dem Kauf der Premium-Version",
-  "addTokenToMetamask": "Fügen Sie {{tokenSymbol}} zu Metamask hinzu"
+  "addTokenToMetamask": "Fügen Sie {{tokenSymbol}} zu Metamask hinzu",
+  "useKeyForAdditionActivation": "Besitzen Sie bereits einen zusätzlichen Schlüssel? Verwenden Sie ihn für die Aktivierung",
+  "activate": "Aktivieren Sie",
+  "youHaveToUseNetworkForPayment": "Sie müssen {{requiredNetwork}} zum Bezahlen verwenden",
+  "ifYouAlreadyHaveFactorySpecifyIt": "Wenn Sie bereits über einen Fabrikvertrag verfügen, verwenden Sie diesen unten, um die Erstellung eines neuen zu vermeiden"
 }
