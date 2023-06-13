@@ -402,5 +402,23 @@
       "name": "Wrapped Ether",
       "symbol": "WETH"
     }
+  },
+  "40821": {
+    "name": "Fokawa",
+    "rpc": "https://mainnet-rpc.fokawa.com",
+    "chainId": 40821,
+    "explorer": "https://explorer.fokawa.com/",
+    "color": "#e7eaf3",
+    "multicall": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
+    "baseCurrency": {
+    "decimals": 18,
+      "name": "FKW", 
+      "symbol": "FKW"
+    },
+    "wrappedToken": {
+      "address": "0x325A2531D28e22D37935B65bd718D1244968dAae",
+      "name": "Wrapped FKW",
+      "symbol": "WFKW"
+    }
   }
 }
