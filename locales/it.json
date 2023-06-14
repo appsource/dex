@@ -308,5 +308,6 @@
   "useKeyForAdditionActivation": "Avete già una chiave aggiuntiva? Utilizzatela per l'attivazione",
   "activate": "Attivare",
   "youHaveToUseNetworkForPayment": "Per pagare è necessario utilizzare {{requiredNetwork}}.",
+  "descriptionAboutStorageNetworkUsage": "La rete Storage è utilizzata per memorizzare i dati dell'applicazione, come contratti smart, colori, elenchi di token, ecc. Se viene richiesto di cambiare rete, molto probabilmente è necessario passare alla rete Storage per poter salvare i dati. Per motivi di sicurezza non utilizziamo server centralizzati.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Se hai già un contratto di fabbrica usalo qui sotto per evitare di crearne uno nuovo"
 }
