@@ -420,5 +420,23 @@
       "name": "Wrapped FKW",
       "symbol": "WFKW"
     }
+  },
+  "4000": {
+    "name": "Ozone Chain",
+    "rpc": "https://node1.ozonechain.io",
+    "chainId": 4000,
+    "explorer": "https://ozonescan.io",
+    "color": "#80DC2E",
+    "multicall": "0x48d7ac38530697aDB91061B6D141C8c763edE565",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "OZO",
+      "symbol": "OZO"
+    },
+    "wrappedToken": {
+      "address": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
+      "name": "Wrapped OZO",
+      "symbol": "WOZO"
+    }
   }
 }

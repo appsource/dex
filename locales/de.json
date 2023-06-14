@@ -309,5 +309,6 @@
   "useKeyForAdditionActivation": "Besitzen Sie bereits einen zusätzlichen Schlüssel? Verwenden Sie ihn für die Aktivierung",
   "activate": "Aktivieren Sie",
   "youHaveToUseNetworkForPayment": "Sie müssen {{requiredNetwork}} zum Bezahlen verwenden",
+  "descriptionAboutStorageNetworkUsage": "Das Speichernetzwerk wird verwendet, um Anwendungsdaten wie Smart Contracts, Farben, Token-Listen usw. zu speichern. Wenn Sie eine Aufforderung sehen, das Netzwerk zu wechseln, ist es höchstwahrscheinlich notwendig, zum Speichernetzwerk zu wechseln, damit Sie Ihre Daten speichern können. Wir verwenden aus Sicherheitsgründen keine zentralisierten Server.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Wenn Sie bereits über einen Fabrikvertrag verfügen, verwenden Sie diesen unten, um die Erstellung eines neuen zu vermeiden"
 }

@@ -308,5 +308,6 @@
   "useKeyForAdditionActivation": "Zaten ek bir anahtarınız var mı? Aktivasyon için kullanın",
   "activate": "Etkinleştir",
   "youHaveToUseNetworkForPayment": "Ödeme yapmak için {{requiredNetwork}} kullanmanız gerekir",
+  "descriptionAboutStorageNetworkUsage": "Depolama ağı akıllı sözleşmeler, renkler, token listeleri vb. gibi uygulama verilerini depolamak için kullanılır. Ağı değiştirmek için bir istek görürseniz, verilerinizi kaydedebilmeniz için büyük olasılıkla Depolama ağına geçmeniz gerekir. Güvenlik nedeniyle merkezi sunucular kullanmıyoruz.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Halihazırda bir fabrika sözleşmeniz varsa, yeni bir sözleşme oluşturmaktan kaçınmak için aşağıdaki sözleşmeyi kullanın."
 }

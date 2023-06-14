@@ -301,5 +301,6 @@
   "useKeyForAdditionActivation": "你已经有一个额外的密钥吗？用它来激活",
   "activate": "激活",
   "youHaveToUseNetworkForPayment": "你必须使用{{requiredNetwork}}来支付",
+  "descriptionAboutStorageNetworkUsage": "存储网络用于存储应用数据，如智能合约、颜色、代币列表等。如果你看到切换网络的请求，很可能是需要切换到存储网络，这样你就可以保存你的数据。出于安全考虑，我们不使用集中式服务器。",
   "ifYouAlreadyHaveFactorySpecifyIt": "如果您已经有工厂合同，请在下面使用它以避免创建新合同"
 }

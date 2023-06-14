@@ -308,5 +308,6 @@
   "useKeyForAdditionActivation": "Do you already have an additional key? Use it for activation",
   "activate": "Activate",
   "youHaveToUseNetworkForPayment": "You have to use {{requiredNetwork}} to pay",
+  "descriptionAboutStorageNetworkUsage": "Storage network is used to store application data such as smart contracts, colors, token lists, etc. If you see a request to switch the network, it is most likely necessary to switch to the Storage network so that you can save your data. We do not use centralized servers for security reasons.",
   "ifYouAlreadyHaveFactorySpecifyIt": "If you already have a factory contract use it below to avoid creating a new one"
 }

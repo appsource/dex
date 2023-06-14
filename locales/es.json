@@ -301,5 +301,6 @@
   "useKeyForAdditionActivation": "¿Ya tienes una clave adicional? Utilícela para la activación",
   "activate": "Activar",
   "youHaveToUseNetworkForPayment": "Tiene que utilizar {{requiredNetwork}} para pagar",
+  "descriptionAboutStorageNetworkUsage": "La red Storage se utiliza para almacenar datos de aplicaciones como contratos inteligentes, colores, listas de tokens, etc. Si ves una solicitud para cambiar de red, lo más probable es que sea necesario cambiar a la red de Almacenamiento para poder guardar tus datos. No utilizamos servidores centralizados por razones de seguridad.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Si ya tiene un contrato de fábrica, utilícelo a continuación para evitar crear uno nuevo"
 }
