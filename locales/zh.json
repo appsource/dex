@@ -266,7 +266,7 @@
   "waitUntilYourAddressWillBeSaved": "等待，直到您的地址将被保存",
   "setNewDomainAdmin": "设置新域管理员",
   "saveThisAddressAsDomainOwner": "将此地址保存为域所有者",
-  "afterMigrationYourDataWillBeDeleted": "迁移后，此域的数据将被删除。 您只能从新域访问它",
+  "afterMigrationYourDataWillBeDeleted": "迁移后，该域的数据将被删除。你只能从一个新的域中访问它。请确保你输入的是正确的域!",
   "migrateToNewDomain": "迁移到新域",
   "instructionToSaveContractsFromDifferentNetwork": "如果从存储网络以外的网络部署合同，则需要手动保存它们。 切换到存储网络，填充这些输入并保存。 您也可以使用现有合同，但前提是它们与 Definance",
   "youHaveToDeploySwapContractsFirst": "首先，您必须部署掉期合约",
@@ -301,6 +301,10 @@
   "useKeyForAdditionActivation": "你已经有一个额外的密钥吗？用它来激活",
   "activate": "激活",
   "youHaveToUseNetworkForPayment": "你必须使用{{requiredNetwork}}来支付",
+  "descriptionOfEndOfMigration": "迁移已经完成。你现在可以在新域中打开这个应用程序。重新加载这个页面后，数据将不可用。",
+  "saveDataForNewDomain": "为一个新的域保存数据",
+  "deleteDataForOldDomain": "删除旧域名的数据",
+  "deleteTokenList": "删除令牌列表",
   "descriptionAboutStorageNetworkUsage": "存储网络用于存储应用数据，如智能合约、颜色、代币列表等。如果你看到切换网络的请求，很可能是需要切换到存储网络，这样你就可以保存你的数据。出于安全考虑，我们不使用集中式服务器。",
   "ifYouAlreadyHaveFactorySpecifyIt": "如果您已经有工厂合同，请在下面使用它以避免创建新合同"
 }

@@ -273,7 +273,7 @@
   "waitUntilYourAddressWillBeSaved": "Wait until your address will be saved",
   "setNewDomainAdmin": "Set a new domain admin",
   "saveThisAddressAsDomainOwner": "Save this address as a domain owner",
-  "afterMigrationYourDataWillBeDeleted": "After migration data for this domain will be deleted. You can access it only from a new domain",
+  "afterMigrationYourDataWillBeDeleted": "After migration data for this domain will be deleted. You can access it only from a new domain. Be sure you entered the right domain!",
   "migrateToNewDomain": "Migrate to a new domain",
   "instructionToSaveContractsFromDifferentNetwork": "If you deploy contracts from a network other than the Storage network, you need to save them manually. Switch to the Storage network, fill these inputs and save it. You can also use existing contracts, but only if they are related to Definance",
   "youHaveToDeploySwapContractsFirst": "First you have to deploy the swap contracts",
@@ -308,6 +308,10 @@
   "useKeyForAdditionActivation": "Do you already have an additional key? Use it for activation",
   "activate": "Activate",
   "youHaveToUseNetworkForPayment": "You have to use {{requiredNetwork}} to pay",
+  "descriptionOfEndOfMigration": "The migration is complete. You can now open this application in the new domain. After reloading this page, the data will not be available.",
+  "saveDataForNewDomain": "Save data for a new domain",
+  "deleteDataForOldDomain": "Delete data for the old domain",
+  "deleteTokenList": "Delete token list",
   "descriptionAboutStorageNetworkUsage": "Storage network is used to store application data such as smart contracts, colors, token lists, etc. If you see a request to switch the network, it is most likely necessary to switch to the Storage network so that you can save your data. We do not use centralized servers for security reasons.",
   "ifYouAlreadyHaveFactorySpecifyIt": "If you already have a factory contract use it below to avoid creating a new one"
 }
