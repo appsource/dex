@@ -266,7 +266,7 @@
   "waitUntilYourAddressWillBeSaved": "Espere hasta que se guarde su dirección",
   "setNewDomainAdmin": "Establecer un nuevo administrador de dominio",
   "saveThisAddressAsDomainOwner": "Guardar esta dirección como propietario de un dominio",
-  "afterMigrationYourDataWillBeDeleted": "Después de la migración, se eliminarán los datos de este dominio. Solo se puede acceder desde un nuevo dominio",
+  "afterMigrationYourDataWillBeDeleted": "Tras la migración, se borrarán los datos de este dominio. Sólo podrá acceder a ellos desde un nuevo dominio. Asegúrese de haber introducido el dominio correcto.",
   "migrateToNewDomain": "Migrar a un nuevo dominio",
   "instructionToSaveContractsFromDifferentNetwork": "Si implementa contratos desde una red que no sea la red de almacenamiento, debe guardarlos manualmente. Cambie a la red de almacenamiento, complete estas entradas y guárdelas. También puede usar contratos existentes, pero solo si están relacionados con Definance",
   "youHaveToDeploySwapContractsFirst": "Primero tienes que implementar los contratos de intercambio",
@@ -301,6 +301,10 @@
   "useKeyForAdditionActivation": "¿Ya tienes una clave adicional? Utilícela para la activación",
   "activate": "Activar",
   "youHaveToUseNetworkForPayment": "Tiene que utilizar {{requiredNetwork}} para pagar",
+  "descriptionOfEndOfMigration": "La migración se ha completado. Ahora puede abrir esta aplicación en el nuevo dominio. Después de recargar esta página, los datos no estarán disponibles.",
+  "saveDataForNewDomain": "Guardar datos para un nuevo dominio",
+  "deleteDataForOldDomain": "Borrar los datos del dominio antiguo",
+  "deleteTokenList": "Borrar lista de fichas",
   "descriptionAboutStorageNetworkUsage": "La red Storage se utiliza para almacenar datos de aplicaciones como contratos inteligentes, colores, listas de tokens, etc. Si ves una solicitud para cambiar de red, lo más probable es que sea necesario cambiar a la red de Almacenamiento para poder guardar tus datos. No utilizamos servidores centralizados por razones de seguridad.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Si ya tiene un contrato de fábrica, utilícelo a continuación para evitar crear uno nuevo"
 }

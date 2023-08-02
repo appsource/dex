@@ -273,7 +273,7 @@
   "waitUntilYourAddressWillBeSaved": "Adresiniz kaydedilene kadar bekleyin",
   "setNewDomainAdmin": "Yeni bir etki alanı yöneticisi ayarlama",
   "saveThisAddressAsDomainOwner": "Bu adresi etki alanı sahibi olarak kaydetme",
-  "afterMigrationYourDataWillBeDeleted": "Geçişten sonra bu etki alanı verileri silinir. Yalnızca yeni bir etki alanından erişebilirsiniz",
+  "afterMigrationYourDataWillBeDeleted": "Geçiş işleminden sonra bu etki alanına ait veriler silinecektir. Yalnızca yeni bir alan adından erişebilirsiniz. Doğru alan adını girdiğinizden emin olun!",
   "migrateToNewDomain": "Yeni bir etki alanına geçirme",
   "instructionToSaveContractsFromDifferentNetwork": "Sözleşmeleri Depolama ağı dışındaki bir ağdan dağıtırsanız, bunları el ile kaydetmeniz gerekir. Depolama ağına geçin, bu girişleri doldurun ve kaydedin. Mevcut sözleşmeleri de kullanabilirsiniz, ancak yalnızca bunlarla ilgiliyse Definance",
   "youHaveToDeploySwapContractsFirst": "İlk önce takas sözleşmelerini dağıtmanız gerekir",
@@ -308,6 +308,10 @@
   "useKeyForAdditionActivation": "Zaten ek bir anahtarınız var mı? Aktivasyon için kullanın",
   "activate": "Etkinleştir",
   "youHaveToUseNetworkForPayment": "Ödeme yapmak için {{requiredNetwork}} kullanmanız gerekir",
+  "descriptionOfEndOfMigration": "Geçiş işlemi tamamlanmıştır. Artık bu uygulamayı yeni etki alanında açabilirsiniz. Bu sayfa yeniden yüklendikten sonra veriler mevcut olmayacaktır.",
+  "saveDataForNewDomain": "Yeni bir alan adı için verileri kaydetme",
+  "deleteDataForOldDomain": "Eski alan adı için verileri silme",
+  "deleteTokenList": "Belirteç listesini sil",
   "descriptionAboutStorageNetworkUsage": "Depolama ağı akıllı sözleşmeler, renkler, token listeleri vb. gibi uygulama verilerini depolamak için kullanılır. Ağı değiştirmek için bir istek görürseniz, verilerinizi kaydedebilmeniz için büyük olasılıkla Depolama ağına geçmeniz gerekir. Güvenlik nedeniyle merkezi sunucular kullanmıyoruz.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Halihazırda bir fabrika sözleşmeniz varsa, yeni bir sözleşme oluşturmaktan kaçınmak için aşağıdaki sözleşmeyi kullanın."
 }

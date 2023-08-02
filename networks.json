@@ -14,7 +14,7 @@
     },
     "wrappedToken": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "name": "Wrapped Etherer",
+      "name": "Wrapped Ether",
       "symbol": "WETH"
     }
   },
@@ -375,8 +375,8 @@
     "color": "#e7eaf3",
     "multicall": "0x842eC2c7D803033Edf55E478F461FC547Bc54EB2",
     "baseCurrency": {
-    "decimals": 18,
-      "name": "ETH", 
+      "decimals": 18,
+      "name": "ETH",
       "symbol": "ETH"
     },
     "wrappedToken": {
@@ -393,8 +393,8 @@
     "color": "#e7eaf3",
     "multicall": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
     "baseCurrency": {
-    "decimals": 18,
-      "name": "ETH", 
+      "decimals": 18,
+      "name": "ETH",
       "symbol": "ETH"
     },
     "wrappedToken": {
@@ -411,8 +411,8 @@
     "color": "#e7eaf3",
     "multicall": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
     "baseCurrency": {
-    "decimals": 18,
-      "name": "FKW", 
+      "decimals": 18,
+      "name": "FKW",
       "symbol": "FKW"
     },
     "wrappedToken": {
@@ -437,6 +437,24 @@
       "address": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
       "name": "Wrapped OZO",
       "symbol": "WOZO"
+    }
+  },
+  "8453": {
+    "name": "Base Mainnet",
+    "rpc": "https://mainnet.base.org",
+    "chainId": 8453,
+    "explorer": "https://basescan.org",
+    "color": "#155BFD",
+    "multicall": "0xEF65BF9e225A4B606aa5C46f944De35f566e58e4",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
     }
   }
 }

@@ -274,7 +274,7 @@
   "waitUntilYourAddressWillBeSaved": "Warten Sie, bis Ihre Adresse gespeichert wird",
   "setNewDomainAdmin": "Legen Sie einen neuen Domänenadministrator fest",
   "saveThisAddressAsDomainOwner": "Speichern Sie diese Adresse als Domaininhaber",
-  "afterMigrationYourDataWillBeDeleted": "Nach der Migration werden die Daten für diese Domain gelöscht. Sie können nur von einer neuen Domain darauf zugreifen",
+  "afterMigrationYourDataWillBeDeleted": "Nach der Migration werden die Daten für diese Domäne gelöscht. Sie können nur von einer neuen Domain aus darauf zugreifen. Vergewissern Sie sich, dass Sie die richtige Domain eingegeben haben!!",
   "migrateToNewDomain": "Zu einer neuen Domain migrieren",
   "instructionToSaveContractsFromDifferentNetwork": "Wenn Sie Verträge aus einem anderen Netzwerk als dem Speichernetzwerk bereitstellen, müssen Sie sie manuell speichern. Wechseln Sie zum Speichernetzwerk, füllen Sie diese Eingaben aus und speichern Sie sie. Sie können auch bestehende Verträge verwenden, jedoch nur, wenn sie sich auf Folgendes beziehen Definance",
   "youHaveToDeploySwapContractsFirst": "Zuerst müssen Sie die Swap-Verträge bereitstellen",
@@ -309,6 +309,10 @@
   "useKeyForAdditionActivation": "Besitzen Sie bereits einen zusätzlichen Schlüssel? Verwenden Sie ihn für die Aktivierung",
   "activate": "Aktivieren Sie",
   "youHaveToUseNetworkForPayment": "Sie müssen {{requiredNetwork}} zum Bezahlen verwenden",
+  "descriptionOfEndOfMigration": "Die Migration ist abgeschlossen. Sie können diese Anwendung nun in der neuen Domäne öffnen. Nach dem erneuten Laden dieser Seite sind die Daten nicht mehr verfügbar.",
+  "saveDataForNewDomain": "Daten für eine neue Domäne speichern",
+  "deleteDataForOldDomain": "Daten für die alte Domäne löschen",
+  "deleteTokenList": "Token-Liste löschen",
   "descriptionAboutStorageNetworkUsage": "Das Speichernetzwerk wird verwendet, um Anwendungsdaten wie Smart Contracts, Farben, Token-Listen usw. zu speichern. Wenn Sie eine Aufforderung sehen, das Netzwerk zu wechseln, ist es höchstwahrscheinlich notwendig, zum Speichernetzwerk zu wechseln, damit Sie Ihre Daten speichern können. Wir verwenden aus Sicherheitsgründen keine zentralisierten Server.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Wenn Sie bereits über einen Fabrikvertrag verfügen, verwenden Sie diesen unten, um die Erstellung eines neuen zu vermeiden"
 }

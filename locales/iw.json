@@ -266,7 +266,7 @@
   "waitUntilYourAddressWillBeSaved": "המתן עד שהכתובת שלך תישמר",
   "setNewDomainAdmin": "הגדר מנהל תחום חדש",
   "saveThisAddressAsDomainOwner": "שמור כתובת זו כבעלים של דומיין",
-  "afterMigrationYourDataWillBeDeleted": "לאחר העברת נתונים עבור תחום זה יימחקו. אתה יכול לגשת אליו רק מדומיין חדש",
+  "afterMigrationYourDataWillBeDeleted": "לאחר העברת נתונים עבור תחום זה יימחקו. אתה יכול לגשת אליו רק מדומיין חדש. הקפד להזין את התחום הנכון!",
   "migrateToNewDomain": "העבר לדומיין חדש",
   "instructionToSaveContractsFromDifferentNetwork": "אם אתה פורס חוזים מרשת שאינה רשת האחסון, עליך לשמור אותם באופן ידני. עבור לרשת האחסון, מלא תשומות אלה ושמור אותה. ניתן גם להשתמש בחוזים קיימים, אך רק אם הם קשורים להגדרה",
   "youHaveToDeploySwapContractsFirst": "ראשית אתה צריך לפרוס את חוזי ההחלפה",
@@ -301,6 +301,10 @@
   "useKeyForAdditionActivation": "האם כבר יש לך מפתח נוסף? השתמש בו להפעלה",
   "activate": "הפעל",
   "youHaveToUseNetworkForPayment": "אתה צריך להשתמש {{requiredNetwork}} לשלם",
+  "descriptionOfEndOfMigration": "ההגירה הושלמה. כעת תוכל לפתוח יישום זה בתחום החדש. לאחר טעינה מחדש של דף זה, הנתונים לא יהיו זמינים.",
+  "saveDataForNewDomain": "שמור נתונים עבור דומיין חדש",
+  "deleteDataForOldDomain": "מחק נתונים עבור הדומיין הישן",
+  "deleteTokenList": "מחק רשימת אסימונים",
   "descriptionAboutStorageNetworkUsage": "רשת אחסון משמשת לאחסון נתוני יישומים כגון חוזים חכמים, צבעים, רשימות אסימונים וכו'. אם אתה רואה בקשה להחליף את הרשת, סביר להניח שיש צורך לעבור לרשת האחסון כדי שתוכל לשמור את הנתונים שלך. איננו משתמשים בשרתים מרכזיים מטעמי אבטחה.",
   "ifYouAlreadyHaveFactorySpecifyIt": "אם כבר יש לך חוזה יצרן, השתמש בו למטה כדי להימנע מיצירת חוזה חדש"
 }

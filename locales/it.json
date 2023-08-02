@@ -273,7 +273,7 @@
   "waitUntilYourAddressWillBeSaved": "Attendi fino a quando il tuo indirizzo verrà salvato",
   "setNewDomainAdmin": "Imposta un nuovo amministratore di dominio",
   "saveThisAddressAsDomainOwner": "Salva questo indirizzo come proprietario del dominio",
-  "afterMigrationYourDataWillBeDeleted": "Dopo la migrazione i dati per questo dominio verranno eliminati. È possibile accedervi solo da un nuovo dominio",
+  "afterMigrationYourDataWillBeDeleted": "Dopo la migrazione, i dati di questo dominio verranno cancellati. È possibile accedervi solo da un nuovo dominio. Assicuratevi di aver inserito il dominio giusto!",
   "migrateToNewDomain": "Migrazione a un nuovo dominio",
   "instructionToSaveContractsFromDifferentNetwork": "Se si distribuiscono contratti da una rete diversa dalla rete di archiviazione, è necessario salvarli manualmente. Passare alla rete di archiviazione, riempire questi ingressi e salvarlo. È inoltre possibile utilizzare i contratti esistenti, ma solo se sono correlati a Definance",
   "youHaveToDeploySwapContractsFirst": "Per prima cosa devi distribuire i contratti di swap",
@@ -308,6 +308,10 @@
   "useKeyForAdditionActivation": "Avete già una chiave aggiuntiva? Utilizzatela per l'attivazione",
   "activate": "Attivare",
   "youHaveToUseNetworkForPayment": "Per pagare è necessario utilizzare {{requiredNetwork}}.",
+  "descriptionOfEndOfMigration": "La migrazione è completa. È ora possibile aprire questa applicazione nel nuovo dominio. Dopo aver ricaricato questa pagina, i dati non saranno più disponibili.",
+  "saveDataForNewDomain": "Salvare i dati per un nuovo dominio",
+  "deleteDataForOldDomain": "Cancellare i dati del vecchio dominio",
+  "deleteTokenList": "Cancellare l'elenco dei token",
   "descriptionAboutStorageNetworkUsage": "La rete Storage è utilizzata per memorizzare i dati dell'applicazione, come contratti smart, colori, elenchi di token, ecc. Se viene richiesto di cambiare rete, molto probabilmente è necessario passare alla rete Storage per poter salvare i dati. Per motivi di sicurezza non utilizziamo server centralizzati.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Se hai già un contratto di fabbrica usalo qui sotto per evitare di crearne uno nuovo"
 }
