@@ -456,5 +456,24 @@
       "name": "Wrapped Ether",
       "symbol": "WETH"
     }
+  },
+  "5611": {
+    "name": "opBNB testnet",
+    "rpc": "https://opbnb-testnet-rpc.bnbchain.org/",
+    "chainId": 5611,
+    "explorer": "https://opbnbscan.com",
+    "color": "#CC9B00",
+    "multicall": "0x48d7ac38530697aDB91061B6D141C8c763edE565",
+    "storage": "0x87a6417F03E106A05698F18829bB3a40CBC54f61",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "wrappedToken": {
+      "address": "0x67a1f4a939b477a6b7c5bf94d97e45de87e608ef",
+      "name": "Wrapped tBNB",
+      "symbol": "WBNB"
+    }
   }
 }
