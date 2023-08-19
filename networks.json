@@ -475,5 +475,25 @@
       "name": "Wrapped tBNB",
       "symbol": "WBNB"
     }
+  },
+  "204": {
+    "name": "opBNB",
+    "rpc": "https://opbnb-mainnet-rpc.bnbchain.org/",
+    "chainId": 204,
+    "explorer": "http://mainnet.opbnbscan.com",
+    "color": "#CC9B00",
+    "multicall": "0x87a6417F03E106A05698F18829bB3a40CBC54f61",
+    "storage": "0x48d7ac38530697aDB91061B6D141C8c763edE565",
+    "exstorage": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "wrappedToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    }
   }
 }
