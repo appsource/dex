@@ -495,5 +495,23 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB"
     }
+  },
+  "109": {
+    "name": "Shibarium",
+    "rpc": "https://www.shibrpc.com/",
+    "chainId": 109,
+    "explorer": "https://www.shibariumscan.io",
+    "color": "#fca633",
+    "multicall": "0xb66e94f5B2a475D98EEc9012A95114AF6fB1fa02",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "BONE",
+      "symbol": "BONE"
+    },
+    "wrappedToken": {
+      "address": "0x213c25900f365F1BE338Df478CD82beF7Fd43F85",
+      "name": "Wrapped BONES",
+      "symbol": "WBONES"
+    }
   }
 }
