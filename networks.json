@@ -513,5 +513,23 @@
       "name": "Wrapped BONES",
       "symbol": "WBONES"
     }
+  },
+  "534352": {
+    "name": "Scroll zkEVM",
+    "rpc": "https://rpc.scroll.io/",
+    "chainId": 534352,
+    "explorer": "https://blockscout.scroll.io/",
+    "color": "#D64F4A",
+    "multicall": "0x10DcBEe8afA39a847707e16Aea5eb34c6b01aBA9",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
+    }
   }
 }
