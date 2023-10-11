@@ -513,7 +513,7 @@
       "name": "Wrapped BONES",
       "symbol": "WBONES"
     }
-    },
+  },
   "534352": {
     "name": "Scroll zkEVM",
     "rpc": "https://rpc.scroll.io/",
