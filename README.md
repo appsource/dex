@@ -1,12 +1,10 @@
-# DEX creation tool
+# Erc20, BEP20 exchchange creation tool
 DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FORK AND ADD DOMAIN
 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
 
-# Price depends on your revenue
-1. FREE - For small and non-profit projects, it is <b>FREE</b>. 
-2. For medium volume DEXes (where owner earns more than 1000$/monthly) will be withheld a protocol fee  ~"1/5" of owner's revenues (exchange fees). 
-3. For large volume DEXes please contact
+# Price . Start for free
+Once you start earning from these tools, we will charge only 1/5 of your profit (not volume). Alternatively, you can avoid this fee by purchasing the premium version (1500$) of the tool. Our RevShare model offers several benefits, including the ability to start using the tools for free, only paying for them when they generate profit. This means you can test out the tools without any upfront costs.
 
 # howto
 1. fork this repo
@@ -28,3 +26,15 @@ List of available networks: https://github.com/noxonsu/unifactory/blob/main/src/
 To add a private chain please contact https://t.me/onoutsupportbot or email support@onout.org (read more https://support.onout.org/hc/1331700057/32/addnewnetwork?category_id=8 )
 
 ![image](https://user-images.githubusercontent.com/2914674/205314312-a75aa402-c248-49d6-8e35-d9b1453e9bd9.png)
+
+# to update
+run github codespace with 16gb RAM then:
+```
+git clone https://github.com/noxonsu/unifactory
+cd unifactory
+nvm use
+nvm install
+npm i
+npm run build_clean
+```
+move files from build folder to thios repository root folder (don't forget to "rm -rf unifactory")
