@@ -1,4 +1,4 @@
-# Erc20, BEP20 exchchange creation tool
+# Erc20, BEP20 exchange creation tool
 DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FORK AND ADD DOMAIN
 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
@@ -8,7 +8,7 @@ Once you start earning from these tools, we will charge only 1/5 of your profit 
 
 # howto
 1. fork this repo
-2. go to settings (check the addreass github/YOURNAME/dex, not https://github.com/appsource/dex/!) and enable Github pages
+2. go to settings (check the address github/YOURNAME/dex, not https://github.com/appsource/dex/!) and enable Github pages
 ![alt text](howto.png "Title")
 3. add your "custom domain" (don't forget to change DNS of your domain. <a href="https://www.youtube.com/watch?v=EX4w9hsduNA" target="_blank">video tutorial</a>)
 
@@ -37,4 +37,4 @@ nvm install
 npm i
 npm run build_clean
 ```
-move files from build folder to thios repository root folder (don't forget to "rm -rf unifactory")
+move files from build folder to this repository root folder (don't forget to "rm -rf unifactory")
