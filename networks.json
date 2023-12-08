@@ -18,6 +18,25 @@
       "symbol": "WETH"
     }
   },
+  "71111": {
+    "name": "Guapcoin X Chain",
+    "rpc": "https://rpc-mainnet.guapcoinx.com",
+    "chainId": 71111,
+    "explorer": "https://explorer.guapcoinx.com/",
+    "color": "#072D4C",
+    "storage": "0xd4a711333C41cC01B005dBE5389BcFb99D4f5d64",
+    "multicall": "0xd152CD6F9cf76921759d3f51f743651e549f6925",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "GUAPX",
+      "symbol": "GUAPX"
+    },
+    "wrappedToken": {
+      "address": "0xb9b990517e07A07d18A753DE6b539F950F1B24a5",
+      "name": "Wrapped GUAPX",
+      "symbol": "WGUAPX"
+    }
+  },
   "25": {
     "name": "Cronos",
     "rpc": "https://evm.cronos.org",
@@ -550,6 +569,46 @@
       "address": "0x5300000000000000000000000000000000000004",
       "name": "Wrapped ETH",
       "symbol": "WETH"
+    }
+  },
+  "35441": {
+    "name": "Q Mainnet",
+    "rpc": "https://rpc.q.org",
+    "chainId": 35441	,
+    "explorer": "https://explorer.q.org",
+    "color": "#CC9B00",
+    "multicall": "0x87a6417F03E106A05698F18829bB3a40CBC54f61",
+    "storage": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
+    "exstorage": "0xd4a711333C41cC01B005dBE5389BcFb99D4f5d64",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "Q",
+      "symbol": "Q"
+    },
+    "wrappedToken": {
+      "address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+      "name": "Wrapped Q",
+      "symbol": "WQ"
+    }
+  },
+  "35443": {
+    "name": "Q Testnet",
+    "rpc": "https://rpc.qtestnet.org",
+    "chainId": 35443	,
+    "explorer": "https://explorer.qtestnet.org",
+    "color": "#CC9B00",
+    "multicall": "0x87a6417F03E106A05698F18829bB3a40CBC54f61",
+    "storage": "0xd152CD6F9cf76921759d3f51f743651e549f6925",
+    "exstorage": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "Q",
+      "symbol": "Q"
+    },
+    "wrappedToken": {
+      "address": "0x76F4f36CE4f1550D95BAd917ef05520Eca310685",
+      "name": "Wrapped Q",
+      "symbol": "WQ"
     }
   }
 }

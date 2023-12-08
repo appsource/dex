@@ -312,6 +312,8 @@
   "saveDataForNewDomain": "Yeni bir alan adı için verileri kaydetme",
   "deleteDataForOldDomain": "Eski alan adı için verileri silme",
   "deleteTokenList": "Belirteç listesini sil",
+  "questionWhyToSwitchToStorageNetwork": "S: BSC olmayan bir ağa dağıtıyorum, ama uygulama BSC'yi istiyor. Neden?",
+  "answerWhyToSwitchToStorageNetwork": "C: Uygulama, BSC'yi geçici bir veritabanı olarak kullanıyor. Sözleşmeleri dağıttıktan sonra, ayarları bu depolama alanına kaydetmeniz gerekiyor, bu yüzden her iki ağı da kullanmanız gerekiyor.",
   "descriptionAboutStorageNetworkUsage": "Depolama ağı akıllı sözleşmeler, renkler, token listeleri vb. gibi uygulama verilerini depolamak için kullanılır. Ağı değiştirmek için bir istek görürseniz, verilerinizi kaydedebilmeniz için büyük olasılıkla Depolama ağına geçmeniz gerekir. Güvenlik nedeniyle merkezi sunucular kullanmıyoruz.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Halihazırda bir fabrika sözleşmeniz varsa, yeni bir sözleşme oluşturmaktan kaçınmak için aşağıdaki sözleşmeyi kullanın."
 }

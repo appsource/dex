@@ -305,6 +305,8 @@
   "saveDataForNewDomain": "Guardar datos para un nuevo dominio",
   "deleteDataForOldDomain": "Borrar los datos del dominio antiguo",
   "deleteTokenList": "Borrar lista de fichas",
+  "questionWhyToSwitchToStorageNetwork": "Q: Estoy desplegando en una red no BSC, pero la app solicita BSC. ¿Por qué?",
+  "answerWhyToSwitchToStorageNetwork": "A: La app usa BSC como una base de datos improvisada. Después de desplegar contratos, debes guardar configuraciones en este almacenamiento, por eso necesitas usar ambas redes.",
   "descriptionAboutStorageNetworkUsage": "La red Storage se utiliza para almacenar datos de aplicaciones como contratos inteligentes, colores, listas de tokens, etc. Si ves una solicitud para cambiar de red, lo más probable es que sea necesario cambiar a la red de Almacenamiento para poder guardar tus datos. No utilizamos servidores centralizados por razones de seguridad.",
   "ifYouAlreadyHaveFactorySpecifyIt": "Si ya tiene un contrato de fábrica, utilícelo a continuación para evitar crear uno nuevo"
 }

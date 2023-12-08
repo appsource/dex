@@ -312,6 +312,8 @@
   "saveDataForNewDomain": "Save data for a new domain",
   "deleteDataForOldDomain": "Delete data for the old domain",
   "deleteTokenList": "Delete token list",
+  "questionWhyToSwitchToStorageNetwork": "Q: I'm deploying to a non-BSC network, but the app prompts for BSC. Why?",
+  "answerWhyToSwitchToStorageNetwork": "A: The app uses BSC as a makeshift database. After deploying contracts, you must save settings to this storage, which is why you need to use both networks.",
   "descriptionAboutStorageNetworkUsage": "Storage network is used to store application data such as smart contracts, colors, token lists, etc. If you see a request to switch the network, it is most likely necessary to switch to the Storage network so that you can save your data. We do not use centralized servers for security reasons.",
   "ifYouAlreadyHaveFactorySpecifyIt": "If you already have a factory contract use it below to avoid creating a new one"
 }
