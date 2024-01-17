@@ -4,7 +4,7 @@ DEX White-label at your own domain without coding skills. 2 CLICK INSTALLATION, 
 Video: https://www.youtube.com/watch?v=x6LJTJCVWiI 
 
 # Price . Start for free
-Once you start earning from these tools, we will charge only 1/5 of your profit (not volume). Alternatively, you can avoid this fee by purchasing the premium version (1500$) of the tool. Our RevShare model offers several benefits, including the ability to start using the tools for free, only paying for them when they generate profit. This means you can test out the tools without any upfront costs.
+Once you start earning from these tools, we will charge only 1/5 of your profit (not volume). Alternatively, you can avoid this fee by purchasing the premium version (https://onout.org/dex/) of the tool. Our RevShare model offers several benefits, including the ability to start using the tools for free, only paying for them when they generate profit. This means you can test out the tools without any upfront costs.
 
 # howto
 1. fork this repo
