@@ -42,3 +42,8 @@ npm i
 npm run build_clean
 ```
 move files from build folder to this repository root folder (don't forget to "rm -rf unifactory")
+```
+rsync -av --remove-source-files ./build/ ../
+cd ..
+rm -rf unifactory
+```
