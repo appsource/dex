@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # For ReactJS projects using npm
+    directory: "/" # Root directory where package.json and package-lock.json are located
+    schedule:
+      interval: "weekly" # Dependabot will check for updates weekly
+    # Additional optional configuration:
+    # open-pull-requests-limit: 10 # Limit the number of open pull requests
+    # ignore: # Specify dependencies to ignore
+    #   - dependency-name: "express"
+    #     versions: ["4.x.x"]
