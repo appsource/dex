@@ -38,8 +38,6 @@ object-assign
  * Released under the MIT License.
  */
 
-/*! For license information please see web3.min.js.LICENSE.txt */
-
 /*! decimal.js-light v2.5.1 https://github.com/MikeMcl/decimal.js-light/LICENCE */
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
