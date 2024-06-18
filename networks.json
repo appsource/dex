@@ -646,5 +646,41 @@
       "name": "Wrapped Ether",
       "symbol": "WETH"
     }
+  },
+  "1116": {
+    "name": "Core",
+    "rpc": "https://rpc.coredao.org",
+    "chainId": 1116,
+    "explorer": "https://scan.coredao.org",
+    "color": "#FF9211",
+    "multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "CORE",
+      "symbol": "CORE"
+    },
+    "wrappedToken": {
+      "address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE"
+    }
+  },
+  "2078": {
+    "name": "Parodychain",
+    "rpc": "https://fraa-flashbox-4392-rpc.a.stagenet.tanssi.network",
+    "chainId": 2078,
+    "explorer": "https://parodyscan.xyz",
+    "color": "#FF9211",
+    "multicall": "0x609310f1014A6f3A26243C26B3027C86B7f5776f",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "PDY",
+      "symbol": "PDY"
+    },
+    "wrappedToken": {
+      "address": "0x816e6e9A48d2a88971debbcbbB80E50850e123f1",
+      "name": "Wrapped PDY",
+      "symbol": "WPDY"
+    }
   }
 }
