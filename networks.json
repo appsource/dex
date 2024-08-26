@@ -256,6 +256,25 @@
       "symbol": "WETH"
     }
   },
+  "11155111": {
+    "name": "Sepolia test network",
+    "rpc": "https://eth-sepolia.g.alchemy.com/v2/eV40AoRwFdzusyW_9htirAoRXSMssQ0E",
+    "chainId": 11155111,
+    "explorer": "https://sepolia.etherscan.io",
+    "color": "#f6c343",
+    "storage": "0x6F4827A4BFAA9b3860E5b642792cd5B8ff9f981d",
+    "multicall": "0xCde205aa01922944d2DD6cC673C4B39b3e14C525",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x52dAc337a6373887D57Db93366C980a0E3c967c0",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    }
+  },
   "19845": {
     "name": "BTCIX Network",
     "rpc": "https://seed.btcix.org/rpc",
@@ -681,6 +700,24 @@
       "address": "0x816e6e9A48d2a88971debbcbbB80E50850e123f1",
       "name": "Wrapped PDY",
       "symbol": "WPDY"
+    }
+  },
+  "420044": {
+    "name": "Vector (Testnet)",
+    "rpc": "https://testnet-scan.vsgofficial.com/",
+    "chainId": 420044,
+    "explorer": "https://testnet-scan.vsgofficial.com/",
+    "color": "#FF9211",
+    "multicall": "0x8D3185295E7800FB687BA75e8F9685e3D2435676",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "VSG",
+      "symbol": "VSG"
+    },
+    "wrappedToken": {
+      "address": "0xc6807ddc8DfB31c66114eFFaDe883b3C8eABBA83",
+      "name": "Wrapped VSG",
+      "symbol": "WVSG"
     }
   }
 }
