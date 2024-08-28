@@ -704,7 +704,7 @@
   },
   "420044": {
     "name": "Vector (Testnet)",
-    "rpc": "https://testnet-scan.vsgofficial.com/",
+    "rpc": "https://testnet-rpc.vsgofficial.com",
     "chainId": 420044,
     "explorer": "https://testnet-scan.vsgofficial.com/",
     "color": "#FF9211",
