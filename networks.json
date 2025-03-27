@@ -75,7 +75,7 @@
   },
   "56": {
     "name": "BSC",
-    "rpc": "https://bscrpc.com/",
+    "rpc": "https://rpc.ankr.com/bsc/afbbed6c16c518a252ca00b02d488e4ce457fb930b5f2aff5437a3a5191fb731",
     "chainId": 56,
     "explorer": "https://bscscan.com",
     "color": "#CC9B00",
