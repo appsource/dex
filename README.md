@@ -60,3 +60,30 @@ rsync -av --remove-source-files ./build/ ../
 cd ..
 rm -rf unifactory
 ```
+
+# Wallet Apps Bridge (MCW iframe mode)
+
+If this DEX is opened inside MultiCurrencyWallet `#/apps`, add bridge mode via URL:
+
+- `https://<your-dex-domain>/?walletBridge=swaponline`
+
+Bridge adapter file added in this repo:
+
+- `wallet-apps-bridge-client.js`
+
+and loaded in `index.html` before app bootstrap.
+
+Optional host origin allowlist config:
+
+```html
+<script>
+  window.SO_DefinanceBridgeConfig = {
+    allowedHostOrigins: ['https://wallet.example', 'https://wallet2.example'],
+    // allowAnyHostOrigin: true
+  }
+</script>
+```
+
+Also supported:
+- `window.SO_WalletAppsAllowedOrigins = ['https://wallet.example']`
+- query param: `walletBridgeAllowedOrigins=https://wallet.example,https://wallet2.example`
