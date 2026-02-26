@@ -79,7 +79,7 @@ Optional host origin allowlist config:
 <script>
   window.SO_DefinanceBridgeConfig = {
     allowedHostOrigins: ['https://wallet.example', 'https://wallet2.example'],
-    // allowAnyHostOrigin: true
+    allowAnyHostOrigin: true
   }
 </script>
 ```
@@ -87,3 +87,15 @@ Optional host origin allowlist config:
 Also supported:
 - `window.SO_WalletAppsAllowedOrigins = ['https://wallet.example']`
 - query param: `walletBridgeAllowedOrigins=https://wallet.example,https://wallet2.example`
+
+Default behavior in this repo is **allowAnyHostOrigin enabled** (for faster QA on many wallet domains).
+To enforce strict allowlist, set:
+
+```html
+<script>
+  window.SO_DefinanceBridgeConfig = {
+    allowAnyHostOrigin: false,
+    allowedHostOrigins: ['https://wallet.example']
+  }
+</script>
+```

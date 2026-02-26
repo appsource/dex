@@ -81,9 +81,9 @@
     .concat(normalizeOriginList(window.SO_Definance && window.SO_Definance.walletBridgeAllowedOrigins))
     .concat(splitCsv(params.get('walletBridgeAllowedOrigins')))
 
-  var allowAnyHostOrigin = !!(
-    runtimeConfig.allowAnyHostOrigin === true
-    || params.get('walletBridgeAllowAnyOrigin') === '1'
+  var allowAnyHostOrigin = (
+    runtimeConfig.allowAnyHostOrigin !== false
+    && params.get('walletBridgeAllowAnyOrigin') !== '0'
   )
 
   var isPotentiallySafeOrigin = function (origin) {
