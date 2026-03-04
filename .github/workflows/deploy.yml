@@ -19,7 +19,21 @@ jobs:
       - name: Verify SKILL.md exists
         run: |
           if [ ! -f SKILL.md ]; then
-            echo "❌ SKILL.md is required — document how agents manage this product"
+            echo ""
+            echo "❌  SKILL.md not found!"
+            echo ""
+            echo "    Every crypto product must have SKILL.md — a guide for AI agents."
+            echo "    Create SKILL.md with these sections:"
+            echo ""
+            echo "      ## What is this project   — description, live URL, repo link"
+            echo "      ## Stack                  — tech stack (frontend, contracts, hosting)"
+            echo "      ## Repository structure   — key files/dirs and their purpose"
+            echo "      ## Build & Deploy         — build commands, CI pipeline, server paths"
+            echo "      ## Common tasks           — how to add networks, update contracts, fund farms"
+            echo "      ## Troubleshooting        — known errors and fixes"
+            echo ""
+            echo "    Example: https://github.com/noxonsu/farmfactory/blob/main/SKILL.md"
+            echo ""
             exit 1
           fi
           echo "✓ SKILL.md found"
