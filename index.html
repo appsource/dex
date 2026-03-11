@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UniFactory DEX</title>
+    <script>
+      (function() {
+        var search = window.location.search;
+        var isBridgeMode = search.indexOf("walletBridge=swaponline") !== -1;
+        var isIframe = window.parent !== window;
+        if (isBridgeMode && isIframe) {
+          var FALLBACK_URL = "https://swaponline.github.io/wallet-apps-bridge-client.js";
+          var scriptUrl = FALLBACK_URL;
+          var referrer = document.referrer;
+          if (referrer) {
+            try {
+              var origin = new URL(referrer).origin;
+              scriptUrl = origin + "/wallet-apps-bridge-client.js";
+            } catch (e) {}
+          }
+          var script = document.createElement("script");
+          script.src = scriptUrl;
+          script.async = false;
+          document.head.appendChild(script);
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-s0S8Rlok.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/wagmi-CT6UJGrP.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-D-onyDnq.js">
+    <link rel="modulepreload" crossorigin href="/assets/appkit-BbMK-Dzx.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-D0_w2bUX.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
